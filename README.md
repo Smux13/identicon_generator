@@ -14,6 +14,7 @@ Examples:
 ![c](./generated/c.png)
 ![d](./generated/d.png)
 ![e](./generated/e.png)
+![A](./generated/A.png)
 ![foo](./generated/foo.png)
 ![bar](./generated/bar.png)
 ![baz](./generated/baz.png)
